@@ -1,0 +1,80 @@
+---
+product-family:
+  title: NetAppデータサービス
+  lead: NetAppコンソールを通じてNetAppデータ サービスにアクセスし、データ インフラストラクチャを保護します。
+  summary: NetAppコンソールからNetApp Data Services にアクセスして、データ インフラストラクチャを保護します。
+  sidebarlinks:
+  - title: 全て
+    tags: all
+    class: active
+  - title: モビリティ
+    tags: mobility
+  - title: 保護
+    tags: protection
+  - title: ガバナンス
+    tags: governance
+  - title: ストレージ管理
+    tags: storage-management
+  - title: ワークロード
+    tags: migrations
+  tiles:
+  - title: リリース ノート
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: NetAppコンソールとNetAppデータ サービスの新機能について説明します。
+    tags: all
+  - title: NetAppコンソール
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: NetAppコンソールを使用して、ID およびアクセス管理、エージェントの導入などを行います。
+    tags: all,connectors,iam
+  - title: ストレージ管理
+    icon: "./media/icon-admin.png"
+    url: "../storage-management-family/index.html"
+    summary: NetAppコンソールを通じてストレージ システムを管理します。
+    tags: storage-management
+  - title: バックアップとリカバリ
+    icon: "./media/icon-backup.png"
+    url: "../data-services-backup-recovery/index.html"
+    summary: オンプレミスとクラウドでONTAPデータ、Kubernetes ボリュームなどを保護および回復します。
+    tags: all,aws,azure,gcp,protection
+  - title: コピーと同期
+    icon: "./media/icon-sync.png"
+    url: "../data-services-copy-sync/index.html"
+    summary: インテリジェントな統合ソリューションにより、さまざまなストレージ タイプ間での大規模なデータ転送を簡素化します。
+    tags: all,aws,azure,gcp,mobility
+  - title: クラウド階層化
+    icon: "./media/icon-tiering.png"
+    url: "../data-services-tiering/index.html"
+    summary: コールド データを低コストのオブジェクト ストレージに自動的に移動することで、継続的に利用可能な容量を実現します。
+    tags: all,aws,azure,gcp,mobility
+  - title: データ分類
+    icon: "./media/icon-data-sense.png"
+    url: "../data-services-classification/index.html"
+    summary: データをスキャンして分類し、ガバナンス、効率、プライバシーを強化します。
+    tags: all,governance,aws,azure,gcp
+  - title: ディザスタ リカバリ
+    icon: "./media/icon-disaster-recovery.png"
+    url: "../data-services-disaster-recovery/index.html"
+    tags: all,protection
+    summary: VMware ワークロード向けの完全な災害保護ソリューションを実行します。
+  - title: ランサムウェア耐性
+    icon: "./media/icon-ransomware.png"
+    url: "../data-services-ransomware-protection/index.html"
+    summary: ストレージ層で強力なランサムウェア防御を実装して、データを保護し、ワークフローを自動化します。
+    tags: all,protection
+  - title: レプリケーション
+    icon: "./media/icon-replication.png"
+    url: "../data-services-replication/index.html"
+    summary: オンプレミスとクラウドのONTAPシステム間のバックアップ、災害復旧、移行のためにデータを複製します。
+    tags: all,mobility
+  - title: ボリュームキャッシュ
+    icon: "./media/icon-volume-caching.png"
+    url: "../data-services-volume-caching/index.html"
+    summary: 書き込み可能なキャッシュ ボリュームを作成して、データへのアクセスを高速化したり、頻繁にアクセスされるボリュームのトラフィックを軽減したりします。
+    tags: all,mobility
+  - title: ワークロード
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: FSx for ONTAPのプロビジョニング、ガバナンス、ライフサイクルを自動化します。コスト削減と高度な管理を検討します。
+    tags: all,workloads
