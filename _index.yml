@@ -2,7 +2,7 @@
 product-family:
   title: NetAppデータサービス
   lead: NetAppコンソールを通じてNetAppデータ サービスにアクセスし、データ インフラストラクチャを保護します。
-  summary: NetAppコンソールからNetApp Data Services にアクセスして、データ インフラストラクチャを保護します。
+  summary: NetAppコンソールを介してNetAppデータ サービスにアクセスし、データ インフラストラクチャを保護します。
   sidebarlinks:
   - title: 全て
     tags: all
@@ -45,7 +45,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: クラウド階層化
     icon: "./media/icon-tiering.png"
-    url: "../data-services-tiering/index.html"
+    url: "../data-services-cloud-tiering/index.html"
     summary: コールド データを低コストのオブジェクト ストレージに自動的に移動することで、継続的に利用可能な容量を実現します。
     tags: all,aws,azure,gcp,mobility
   - title: データ分類
@@ -70,7 +70,7 @@ product-family:
     tags: all,mobility
   - title: ボリュームキャッシュ
     icon: "./media/icon-volume-caching.png"
-    url: "../data-services-volume-caching/index.html"
+    url: "../console-volume-caching/index.html"
     summary: 書き込み可能なキャッシュ ボリュームを作成して、データへのアクセスを高速化したり、頻繁にアクセスされるボリュームのトラフィックを軽減したりします。
     tags: all,mobility
   - title: ワークロード
