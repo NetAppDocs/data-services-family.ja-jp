@@ -50,7 +50,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: データ分類
     icon: "./media/icon-data-sense.png"
-    url: "../data-services-classification/index.html"
+    url: "../data-services-data-classification/index.html"
     summary: データをスキャンして分類し、ガバナンス、効率、プライバシーを強化します。
     tags: all,governance,aws,azure,gcp
   - title: ディザスタ リカバリ
@@ -60,7 +60,7 @@ product-family:
     summary: VMware ワークロード向けの完全な災害保護ソリューションを実行します。
   - title: ランサムウェア耐性
     icon: "./media/icon-ransomware.png"
-    url: "../data-services-ransomware-protection/index.html"
+    url: "../data-services-ransomware-resilience/index.html"
     summary: ストレージ層で強力なランサムウェア防御を実装して、データを保護し、ワークフローを自動化します。
     tags: all,protection
   - title: レプリケーション
