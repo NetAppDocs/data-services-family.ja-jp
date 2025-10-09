@@ -1,7 +1,7 @@
 ---
 product-family:
   title: NetAppデータサービス
-  lead: NetAppコンソールを通じてNetAppデータ サービスにアクセスし、データ インフラストラクチャを保護します。
+  lead: NetApp Consoleを通じてNetAppデータ サービスにアクセスし、データ インフラストラクチャを保護します。
   summary: NetAppコンソールを介してNetAppデータ サービスにアクセスし、データ インフラストラクチャを保護します。
   sidebarlinks:
   - title: 全て
@@ -13,7 +13,7 @@ product-family:
     tags: protection
   - title: ガバナンス
     tags: governance
-  - title: NetAppコンソール
+  - title: NetApp Console
     tags: console
   - title: ストレージ管理
     tags: storage-management
@@ -23,17 +23,17 @@ product-family:
   - title: リリース ノート
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: NetAppコンソールとNetAppデータ サービスの新機能について説明します。
+    summary: NetApp ConsoleとNetApp Data Servicesの新機能について説明します。
     tags: all
-  - title: NetAppコンソール
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: NetAppコンソールを使用して、ID およびアクセス管理、エージェントの導入などを行います。
+    summary: NetApp Consoleを使用して、ID およびアクセス管理、エージェントの導入などを行います。
     tags: all,console
   - title: ストレージ管理
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
-    summary: NetAppコンソールを通じてストレージ システムを管理します。
+    summary: NetApp Consoleを通じてストレージ システムを管理します。
     tags: storage-management
   - title: バックアップとリカバリ
     icon: "./media/icon-backup.png"
