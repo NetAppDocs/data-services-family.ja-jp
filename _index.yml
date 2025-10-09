@@ -13,6 +13,8 @@ product-family:
     tags: protection
   - title: ガバナンス
     tags: governance
+  - title: NetAppコンソール
+    tags: console
   - title: ストレージ管理
     tags: storage-management
   - title: ワークロード
@@ -27,7 +29,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: NetAppコンソールを使用して、ID およびアクセス管理、エージェントの導入などを行います。
-    tags: all,connectors,iam
+    tags: all,console
   - title: ストレージ管理
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
