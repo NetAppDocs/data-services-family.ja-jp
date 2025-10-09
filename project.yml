@@ -22,27 +22,5 @@ settings:
   langs: ja-jp,us-en,de-de,es-es,fr-fr,it-it,pt-br,ko-kr,zh-cn,zh-tw
 sidebar:
   entries:
-  - title: NetAppコンソール
-    url: "../console-setup-admin/index.html"
-  - title: ストレージ管理
-    url: "../storage-management-family/index.html"
-  - title: リリース ノート
-    url: "../console-relnotes/index.html"
-  - title: バックアップとリカバリ
-    url: "../data-services-backup-recovery/index.html"
-  - title: クラウド階層化
-    url: "../data-services-cloud-tiering/index.html"
-  - title: コピーと同期
-    url: "../data-services-copy-sync/index.html"
-  - title: データ分類
-    url: "../data-services-data-classification/index.html"
-  - title: ディザスタ リカバリ
-    url: "../data-services-disaster-recovery/index.html"
-  - title: ランサムウェア耐性
-    url: "../data-services-ransomware-resilience/index.html"
-  - title: レプリケーション
-    url: "../data-services-replication/index.html"
-  - title: ボリュームキャッシュ
-    url: "../data-services-volume-caching/index.html"
-  - title: ワークロード
-    url: "../workload-family"
+  - title: NetAppデータサービス
+    url: "/index.html"
