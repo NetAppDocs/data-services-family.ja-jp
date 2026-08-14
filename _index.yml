@@ -17,8 +17,6 @@ product-family:
     tags: console
   - title: ストレージ管理
     tags: storage-management
-  - title: ワークロード
-    tags: workloads
   tiles:
   - title: リリース ノート
     icon: "./media/icon-docs.png"
@@ -75,8 +73,3 @@ product-family:
     url: "../console-volume-caching/index.html"
     summary: 書き込み可能なキャッシュ ボリュームを作成して、データへのアクセスを高速化したり、頻繁にアクセスされるボリュームのトラフィックを軽減したりします。
     tags: all,mobility
-  - title: ワークロード
-    icon: "./media/icon-workloads.png"
-    url: "../workload-family"
-    summary: FSx for ONTAPのプロビジョニング、ガバナンス、ライフサイクルを自動化します。コスト削減と高度な管理を検討します。
-    tags: all,workloads
